@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.1",
+  "system_code": "TUX-133.144~",
+  "root_identity": {
+    "current": {
+      "version": "1.1",
+      "file": "root-identity.json",
+      "sha256": "fe7a9b503825560c9f7903f5301e04975a3799aa262e6619cf0474419c71c5f6",
+      "cid": "pfip://bafybeicapod5lq63277c2nk4i3kxmboxke7euw27loyuhh4m7ewielpiau",
+      "record_id": "FSS-ASR-2025-01-12-R1"
+    },
+    "historical": [
+      {
+        "version": "1.0",
+        "sha256": "13b4a99ee4cff79316ee3cf2325e258e287024d17b1b0536d6c9d521205d2403",
+        "status": "archival-only"
+      }
+    ]
+  }
+}
