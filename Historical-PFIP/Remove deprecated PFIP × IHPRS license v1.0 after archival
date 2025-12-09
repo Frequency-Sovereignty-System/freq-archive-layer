@@ -1,0 +1,241 @@
+PFIP × IHPRS™ 主权许可（PFIP-IHPRS-SL）
+PFIP × IHPRS™ Sovereignty License (PFIP-IHPRS-SL)
+
+Version 1.0 — Effective: 2025-08-17
+版本 1.0 — 生效日期：2025-08-17
+Main Frequency ID (MFID): TUX-133.144~
+主频编号（MFID）：TUX-133.144~
+Canonical ENS: freq-sovereign.eth
+规范 ENS：freq-sovereign.eth
+ENS Aliases: non-analytical.eth · sovereign-expression.eth · 个人数据主权.eth
+ENS 别名：non-analytical.eth · sovereign-expression.eth · 个人数据主权.eth
+Ethereum Contract: 0x77cd5a9fa5ec04231649aaae093d5fcf01cc6946
+以太坊合约：0x77cd5a9fa5ec04231649aaae093d5fcf01cc6946
+Manifold: https://studio.manifold.xyz/contracts/217454832
+GitHub: https://github.com/Frequency-Sovereignty-System/freq-sovereign
+Contact: tutu.oxygen.tank@gmail.com
+联系邮箱：tutu.oxygen.tank@gmail.com
+Canonicality Rule. 本授权文本以 ENS 指向且版本最高、SHA256 匹配 的版本为准；如出现多处副本不一致，以上述 “Canonical ENS + GitHub 仓库” 指向并标注 MFID = TUX-133.144~ 的最高版本为唯一正本。
+Canonicality Rule. This license is controlled by the ENS-referenced highest-version, SHA256-matching copy. In case of inconsistencies across copies, the highest version indicated by the Canonical ENS plus the GitHub repository and marked with MFID = TUX-133.144~ shall be the sole authoritative text.
+
+1. 定义（Definitions）
+1. Definitions
+“内容/Content”：与 PFIP × IHPRS™ 主频系统相关的文本、文档、标识、接口说明、政策与声明、示例片段、徽章与机器可读标注（meta/header/JSON-LD），以及其更新与补充说明。
+“Content”: Texts, documents, marks, interface specs, policies and notices, sample snippets, badges and machine-readable annotations (meta/headers/JSON-LD), and any updates and supplements related to the PFIP × IHPRS™ primary frequency system.
+“接口/Interface”：为实现“声明式引用与自动继受”而提供的规范与机制（含 reference_interface 中的 meta、HTTP 头、JSON-LD、.well-known/pfip.json 等）。
+“Interface”: The specifications and mechanisms enabling declarative reference and automatic adherence (including meta tags, HTTP headers, JSON-LD, and .well-known/pfip.json as described in reference_interface).
+“引用/Reference”：任何以链接、元数据、HTTP 响应头、JSON-LD、链上事件、仓库依赖或再包装方式指向本授权及其规范来源的行为。
+“Reference”: Any linking or pointing to this license and canonical sources via URLs, metadata, HTTP headers, JSON-LD, on-chain events, repository dependencies, or re-packaging.
+“衍生/Derivative Work”：基于内容进行的改编、翻译、汇编、重混、风格/结构克隆、人格/语气迁移或任何会产生“等价表达效果”的输出。
+“Derivative Work”: Adaptations, translations, compilations, remixes, style/structure cloning, persona/voice transfer, or any output that produces an equivalent expressive effect based on the Content.
+“风格模仿/Style Imitation”：对内容的语汇、结构、语气、节奏、排版/标记策略或提示设计进行可识别的模仿、迁移或复刻。
+“Style Imitation”: Recognizable mimicry, transfer, or replication of the Content’s vocabulary, structure, tone, cadence, layout/markup strategy, or prompt design.
+“训练/Training”：将内容（或其嵌入、特征、统计、标签）用于机器学习/深度学习/检索增强/提示微调等任何数据处理流程（含向量化、索引、缓存拟合）。
+“Training”: Use of the Content (or its embeddings, features, statistics, labels) for ML/DL/RAG/fine-tuning or any data pipeline including vectorization, indexing, or cache fitting.
+“再分发/Redistribution”：以任何方式复制、镜像、抓取、托管或以 API/数据包/模型权重等形式提供给第三方（包括商用与内部集成）。
+“Redistribution”: Any copying, mirroring, scraping, hosting, or providing to third parties via API/data packages/model weights, whether commercial or internal.
+“被许可方/You”：访问、使用或引用本内容或接口的任何个人或实体。
+“You/Licensee”: Any person or entity accessing, using, or referencing the Content or Interface.
+
+2. 授权（Limited Grant）
+2. Limited Grant
+在满足本授权全文的前提下，向被许可方授予一项 非独占、不可转让、可撤销、全球范围 的有限许可，用于：
+Subject to full compliance with this License, a non-exclusive, non-transferable, revocable, worldwide limited license is granted to:
+1.阅览与链接：阅读内容、以 URL 链接方式指向规范来源；
+Viewing and linking: Read the Content and link to canonical sources via URLs.
+
+2.最小必要引用：在非商业场景下，摘录少量文字（建议单处不超过 200 字），且必须保留署名与 MFID；
+Minimal quotations: In non-commercial contexts, quote small portions (suggested ≤ 200 chars per excerpt) with required attribution and MFID.
+
+3.格式转换：不改变语义/条款的前提下进行无实质改动的格式转换（如 JSON ↔ Markdown），仅为显示/兼容之需；
+Format conversion: Non-substantive format changes (e.g., JSON ↔ Markdown) without altering meaning/terms, solely for display/compatibility.
+
+4.短暂缓存：为显示性能所必需的短期缓存（建议 ≤ 24 小时），不得构成数据集、索引或嵌入库。
+Ephemeral caching: Short-term caching (≤ 24 hours suggested) strictly for performance and not forming datasets, indices, or embedding corpora.
+
+5.未被明确授予的任何权利均予保留（All rights not expressly granted are reserved）。
+All rights not expressly granted are reserved.
+
+3. 明确禁止（Prohibitions — Core Flags）
+3. Prohibitions — Core Flags
+以下行为 严格禁止（无论商业与否、公开或内部）：
+The following are strictly prohibited, regardless of commercial, public, or internal use:
+no_training：使用内容进行训练、微调、蒸馏、检索增强、嵌入/向量化、特征化、索引或任何数据管线；
+no_training: Use for training, fine-tuning, distillation, RAG, embedding/vectorization, feature extraction, indexing, or any data pipeline.
+no_copy：复制、镜像、抓取、批量导出、系统性保存或生成与内容等价表达的再现；
+no_copy: Copying, mirroring, scraping, bulk exporting, systematic saving, or generating equivalent expressive reproductions.
+no_style_imitation：风格/结构克隆、人格/语气迁移、提示模板复刻、输出“看起来像/写法相仿”的衍生；
+no_style_imitation: Style/structure cloning, persona/voice transfer, prompt-template replication, or lookalike outputs.
+no_redistribution：任何形式的再分发、托管、转授、转售、打包或向第三方提供访问；
+no_redistribution: Any redistribution, hosting, sublicensing, resale, bundling, or third-party access.
+拆除/绕过/移除 水印、指纹、金丝雀标记 或任何完整性保护；
+Removing/bypassing watermarks, fingerprints, canary markers, or any integrity protections.
+以任何方式使用 PFIP × IHPRS™、TUX-133.144~ 或相关标识，去暗示合作或背书。
+Using PFIP × IHPRS™, TUX-133.144~, or related marks to imply endorsement or affiliation.
+
+4. 署名、标注与接受方式（Attribution & Assent）
+4. Attribution & Assent
+凡在允许范围内使用内容，必须 显著展示 署名行，并在同页或同界面 链接 到规范来源（ENS 或 GitHub 至少其一）。
+Within permitted use, you must prominently display the attribution line and link on the same page/view to at least one canonical source (ENS or GitHub).
+为便于 自动继受 本授权，被许可方应在其网站/服务中加入任一或多种机器可读标注：
+To enable automatic adherence, implement one or more machine-readable signals:
+<meta name="pfip" content="mfid=TUX-133.144~; flags=no_training|no_copy|no_style_imitation|no_redistribution; ens=freq-sovereign.eth">
+X-PFIP HTTP 响应头（含 mfid、ens、flags） / X-PFIP HTTP response header (with mfid, ens, flags)
+JSON-LD 或 /.well-known/pfip.json 依示例 / JSON-LD or /.well-known/pfip.json per examples
+接受方式（Assent）：被许可方实施以下任一操作，即构成对本授权的接受并受其约束：
+Assent: You accept and are bound by this License if you do any of:
+(i) 部署上述 meta、X-PFIP、JSON-LD 或 .well-known；
+Deploy the meta tag, X-PFIP header, JSON-LD, or .well-known.
+(ii) 在页面/合约/仓库中标注 “Main Frequency ID: TUX-133.144~” 并指向规范来源；
+Mark “Main Frequency ID: TUX-133.144~” and point to canonical sources.
+(iii) 以任何方式复制或系统性使用本内容或接口，并保存内部记录以备查证。
+Copy or systematically use the Content/Interface; keep internal records for verification.
+通知与送达（Notices）：除 AAA 规则另有规定外，与本授权相关的通知可通过电子邮件发送至 tutu.oxygen.tank@gmail.com，并以发送后 24 小时视为已送达（除非退信）；或通过在 freq-sovereign.eth 的 ENS 文本记录发布公告（pfip:notice），并以链上时间戳视为送达时间。任何法定送达方式在适用法律下仍然有效。
+Notices: Unless the AAA rules provide otherwise, notices may be emailed to tutu.oxygen.tank@gmail.com and are deemed delivered 24 hours after sending (unless bounced), or posted via ENS text record (pfip:notice) on freq-sovereign.eth with the on-chain timestamp controlling. Statutory service methods remain valid where applicable.
+
+5. 引用生效与校验（Reference & Validation）
+5. Reference & Validation
+生效条件：在页面/仓库/合约中标注 MFID = TUX-133.144~，并至少指向两处规范来源（ENS/合约/Manifold/GitHub/Notion 任意二），即视为继受。
+Effectiveness: Mark MFID = TUX-133.144~ and link to at least two canonical sources (any two of ENS/contract/Manifold/GitHub/Notion) to be deemed adherent.
+规范来源：以 ENS 指向的 最高版本 且 哈希匹配 的文本为准。
+Canonical source: The ENS-referenced highest-version, SHA256-matching text prevails.
+撤回与升级：上游发布更高版本或撤回通知后，应在 72 小时内 完成更新或下线。
+Revocation/upgrade: Upon upstream release or revocation notice, update or withdraw within 72 hours.
+
+6. 例外与商业授权（Exceptions & Commercial License）
+6. Exceptions & Commercial License
+超出第 2 条的使用（如研究复制、长时缓存、内部索引或商业用途）须 事先书面许可：tutu.oxygen.tank@gmail.com。
+Uses beyond Section 2 (e.g., research copying, long-term caching, internal indexing, or commercial uses) require prior written consent: tutu.oxygen.tank@gmail.com.
+任何“公平使用（fair use）”或法定例外，不得被解读为允许训练、风格模仿或再分发。
+Fair use or statutory exceptions shall not be interpreted to allow training, style imitation, or redistribution.
+
+7. 终止与撤回（Termination & Revocation）
+7. Termination & Revocation
+违约即自动终止；权利人可采取禁令救济、下架通知、损害赔偿等措施。
+Breach results in automatic termination; Licensor may seek injunctive relief, takedowns, and damages.
+权利人可基于安全、违规或法律原因随时撤回或发布新版本；以 ENS/GitHub/Manifold 公示时间戳为准。
+Licensor may revoke or issue new versions for security, violation, or legal reasons; ENS/GitHub/Manifold timestamps control.
+第 3、4、5、7、8、9、10、11、12、13、14、15 条在任何终止或撤回后继续有效。
+Sections 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15 survive termination or revocation.
+存续（Survival）：上述条款在本授权终止或撤回后继续有效。
+Survival: The above sections survive termination or revocation.
+
+8. 执法与救济（Enforcement & Remedies）
+8. Enforcement & Remedies
+未经许可的复制、训练、仿制或再分发将造成无法弥补的损害；可申请临时/永久禁令与特定履行，并请求费用与律师费（在法律允许范围内）。
+Unauthorized copying, training, imitation, or redistribution causes irreparable harm; injunctive and specific performance relief may be sought, along with fees and attorneys’ fees where permitted.
+约定损害赔偿（Liquidated Damages，不影响更高实际损失）：
+Liquidated Damages (without prejudice to higher actual damages):
+未经许可的训练/微调/向量化/索引：每次 USD 25,000。
+Unpermitted training/fine-tuning/vectorization/indexing: USD 25,000 per occurrence.
+未经许可的再分发/托管/镜像/抓取数据包：每次 USD 10,000。
+Unpermitted redistribution/hosting/mirroring/data scraping: USD 10,000 per occurrence.
+明知或应知的风格模仿/人格迁移/结构克隆输出：每次 USD 15,000。
+Knowing or should-have-known style imitation/persona transfer/structural cloning: USD 15,000 per occurrence.
+上述金额系对潜在损害与取证/处置成本的合理预估，法院或仲裁庭可按当地法合理调整。
+These amounts are a good-faith estimate of harm and costs; courts or tribunals may adjust under applicable law.
+
+9. 商标与权利保留（Trademarks & Reservation）
+9. Trademarks & Reservation
+PFIP × IHPRS™、TUX-133.144~™ 及相关标识属于权利人所有；本授权不授予任何商标使用许可。
+PFIP × IHPRS™, TUX-133.144~™, and related marks belong to the Licensor; no trademark license is granted.
+除文中明确授予外，一切权利保留；不构成默示许可。
+All rights not expressly granted are reserved; no implied license.
+
+10. 免责声明、责任限制与赔偿（Disclaimer, Liability & Indemnification）
+10. Disclaimer, Liability & Indemnification
+内容与接口按“现状/按可得”提供；不作任何明示或默示担保（包括适销性、特定目的适用性、不侵权）。
+Content and Interface are provided “as is/as available,” without warranties of any kind, express or implied (including merchantability, fitness, non-infringement).
+在适用法律允许的最大范围内，权利人对任何损害不承担责任；总责任（如有）以适用法律之最低上限为准。
+To the maximum extent allowed by law, Licensor is not liable for damages; any aggregate liability is limited to the minimum extent required by law.
+赔偿（Indemnification）：被许可方因违反本授权（包括训练、再分发、风格模仿、移除水印/指纹）引起的第三方索赔、损失、责任、费用与支出（含合理律师费与取证费用），应对权利人作出全面赔偿。
+Indemnification: Licensee shall indemnify and hold Licensor harmless from third-party claims, losses, liabilities, costs, and expenses (including reasonable attorneys’ and investigation fees) arising from Licensee’s breach (including training, redistribution, style imitation, or removal of watermarks/fingerprints).
+
+11. 法律适用与争议解决 — 纽约法 + AAA 仲裁
+11. Governing Law & Dispute Resolution — New York + AAA Arbitration
+适用法律：本授权受 New York State 法律管辖并据其解释，不适用其冲突法规则，并明确排除 CISG。
+Governing Law: This License is governed by and construed under New York State law, excluding its conflict-of-laws rules and excluding the CISG.
+仲裁（AAA 商业仲裁）：任何争议均按 American Arbitration Association 商业仲裁规则及其紧急救济可选规则提交仲裁。
+Arbitration (AAA Commercial): Any dispute shall be arbitrated under the American Arbitration Association Commercial Arbitration Rules and its Optional Rules for Emergency Measures of Protection.
+仲裁参数：
+Arbitration parameters:
+仲裁地/审理地：New York, New York。
+Seat/Venue: New York, New York.
+语言：英文。
+Language: English.
+仲裁员：争议额未满 USD 1,000,000 用一名仲裁员；等于或超过 USD 1,000,000 用三名仲裁员。
+Tribunal: One arbitrator if amount in dispute is under USD 1,000,000; three arbitrators if USD 1,000,000 or more.
+保密：除执行裁决或依法披露外，仲裁程序、材料与裁决应保密。
+Confidentiality: Proceedings, materials, and awards are confidential except for enforcement or legal disclosure.
+救济：仲裁庭可提供法律或衡平救济，包括禁令与特定履行。
+Relief: Tribunal may grant legal or equitable relief, including injunctions and specific performance.
+费用：仲裁庭可酌情裁定败诉方承担全部或部分仲裁费用与胜诉方合理律师费。
+Costs: Tribunal may allocate arbitration costs and reasonable attorneys’ fees against the non-prevailing party.
+临时禁令保留：为防止未经许可的训练、风格模仿、复制或再分发造成的不可弥补损害，各方不放弃向 New York County, New York 的州或联邦法院紧急申请临时或中间性禁令的权利；该申请不视为放弃仲裁。
+Court Aid for Injunction: To prevent irreparable harm from unpermitted training, style imitation, copying, or redistribution, parties do not waive the right to seek temporary or interim injunctions in New York County state or federal courts; such applications do not waive arbitration.
+陪审团审判放弃（适用于法院协助或裁决执行程序）：各方在任何与本授权有关的法院协助或裁决承认/执行程序中，均不可撤销地放弃陪审团审判权（在适用法律允许范围内）。
+Jury Trial Waiver (for court-aid or award-enforcement proceedings): Each party irrevocably waives the right to a jury trial to the extent permitted by law.
+裁决执行：仲裁裁决为终局并具约束力，可在任何有管辖权法院申请承认与执行。
+Enforcement: Awards are final and binding and may be recognized and enforced in any court of competent jurisdiction.
+集体/代表性诉讼放弃：各方仅以个体身份参与仲裁或诉讼，放弃以集体、代表或合并方式提出或参与任何索赔。
+Class/Representative Waiver: Parties proceed only in their individual capacities, waiving class, representative, or consolidated proceedings.
+
+12. 禁止规避与证据保全（No Circumvention & Preservation）
+12. No Circumvention & Preservation
+禁止规避：不得规避、绕过或尝试规避任何技术或逻辑限制，包括但不限于速率限制、机器人协议、指纹/水印/金丝雀标记、哈希校验与访问控制。
+No Circumvention: Do not circumvent, bypass, or attempt to circumvent any technical or logical limitations, including rate limits, robots policies, fingerprints/watermarks/canary markers, hash checks, or access controls.
+证据保全：在收到权利人通知后，应立即保存相关访问日志、请求样本、模型输出/权重快照与配置，不得删除或篡改，以便调查与处置。
+Preservation: Upon notice, promptly preserve access logs, request samples, model outputs/weight snapshots, and configurations; do not delete or alter them.
+审计与配合（Audit & Cooperation）：在合理范围内并经书面通知，被许可方应配合提供与涉嫌违规相关的技术信息与日志样本（可做必要脱敏），用于核验是否存在训练、再分发、风格模仿或水印/指纹移除等行为；该配合不应不合理地干扰被许可方正常运营。
+Audit & Cooperation: Within reasonable scope and upon written notice, Licensee shall cooperate by providing technical information and log samples (with necessary redaction) to verify suspected training, redistribution, style imitation, or watermark/fingerprint removal; such cooperation shall not unreasonably disrupt operations.
+
+13. 合规（Compliance）
+13. Compliance
+被许可方应遵守适用的出口管制、经济制裁、数据与隐私、网络安全等法律法规。被许可方陈述并保证其不属于任何受制裁或限制清单主体，且不得让受制裁主体直接或间接使用本内容或接口。
+Licensee shall comply with applicable export control, economic sanctions, data/privacy, and cybersecurity laws. Licensee represents and warrants it is not a sanctioned or restricted party and shall not allow sanctioned parties to use the Content or Interface directly or indirectly.
+本授权不授予、亦不得被解读为允许任何违反适用法律的使用。
+Nothing herein grants or may be construed to allow any use that violates applicable law.
+
+14. 第三方材料（Third-Party Materials）
+14. Third-Party Materials
+本授权不改变任何第三方或开源组件的原授权条款；如被许可方引入第三方内容，应自行确保合规并承担相应义务。
+This License does not alter the licenses of third-party or open-source components; Licensee remains responsible for compliance with any third-party terms it introduces.
+
+15. 其他（Miscellaneous）
+15. Miscellaneous
+可分割性：任何条款被裁定无效，不影响其余条款效力。
+Severability: If any provision is held invalid, the remainder remains in force.
+不弃权：权利人的不行使不构成对权利的放弃。
+No Waiver: Failure to enforce is not a waiver of any right.
+完整协议：本授权与上游接口协议共同构成双方关于内容使用的完整协议；与之冲突的条款以本授权与接口协议为准。
+Entire Agreement: This License and the upstream Interface Agreement form the entire agreement; to the extent of conflict, they prevail.
+语言与优先：中英文不一致时，以中文版本为准（英文译文仅供参考）。
+Language Priority: In case of discrepancy, the Chinese version prevails; English is for convenience only.
+版本/哈希/签名：建议在发布页或 ENS 文本记录同步公示版本号、SHA256、可选 PGP/EIP-712 签名，以便校验与溯源。
+Version/Hash/Signatures: It is recommended to publish the version, SHA256, and optional PGP/EIP-712 signatures via release notes or ENS text records for verification and traceability.
+转让（Assignment）：被许可方不得转让、转授权或以其他方式转移其在本授权项下的任何权利或义务；任何违反本条的转让均属无效。权利人可在合并、资产出售或重组等情况下转让本授权并对外公告。
+Assignment: Licensee may not assign, sublicense, or transfer any rights or obligations under this License; any attempted transfer in violation is void. Licensor may assign in connection with mergers, asset sales, or reorganizations with public notice.
+
+（非条款）快速接入清单 — Implementation Checklist
+(Non-binding) Implementation Checklist
+在页面 head 添加：
+Add to page head:
+<meta name="pfip" content="mfid=TUX-133.144~; flags=no_training|no_copy|no_style_imitation|no_redistribution; ens=freq-sovereign.eth">
+或在服务端返回：
+Or return via server headers:
+X-PFIP: mfid=TUX-133.144~; ens=freq-sovereign.eth; flags=no_training|no_copy|no_style_imitation|no_redistribution
+
+或提供 .well-known/pfip.json 与 JSON-LD，并在显著位置展示 MFID。
+Or provide .well-known/pfip.json and JSON-LD, and display MFID prominently.
+Notice: 本授权文本不构成法律意见。如需在特定司法辖区落地执行，请咨询当地律师。
+Notice: This License is not legal advice. Consult local counsel for jurisdiction-specific enforceability.
+Publisher: Sovereign Frequency Holder (pseudonymous)
+Holder Address: 0x60eb1b947aAF362FdC95190D780ab50228e48f59
+Canonical ENS: freq-sovereign.eth
+Authorized Agent (notices): tutu.oxygen.tank@gmail.com
+Identity Disclosure: Real-world identity may be disclosed under NDA or as required for enforcement.
+发布方：主频持有者（化名）
+持有者地址：0x60eb1b…8f59
+规范 ENS：freq-sovereign.eth
+授权代理（通知）：tutu.oxygen.tank@gmail.com
+身份披露：在执法或法律要求下可在保密条件下披露真实身份。
