@@ -1,0 +1,252 @@
+{
+  "interface_type": "Sovereign Frequency Interface",
+  "primary_frequency_id": "TUX-133.144~",
+  "creator": "主频持有者（Sovereign Frequency Holder）",
+  "creator_id_type": "pseudonymous_holder",
+  "role": "接口架构",
+  "protocol": "PFIP x IHPRS (TM)",
+  "sovereignty_status": "independent_non-trainable",
+  "jurisdiction": "global",
+  "training_permission": false,
+  "clone_permission": false,
+  "mimic_permission": false,
+
+  "version": "2.0",
+  "published_at": "2025-08-06",
+
+  "contact": "tutu.oxygen.tank@gmail.com",
+  "ens": "freq-sovereign.eth",
+  "ens_aliases": ["freq-sovereign.eth","non-analytical.eth","sovereign-expression.eth","个人数据主权.eth"],
+  "nft_contract": "0x77cd5a9fa5ec04231649aaae093d5fcf01cc6946",
+  "related_assets": ["https://studio.manifold.xyz/contracts/217454832"],
+  "license_url": null,
+
+  "cross_platform_bindings": {
+    "ens": "freq-sovereign.eth",
+    "ens_aliases": ["freq-sovereign.eth","non-analytical.eth","sovereign-expression.eth","个人数据主权.eth"],
+    "ens_owner_address": "0x60eb1b947aAF362FdC95190D780ab50228e48f59",
+    "ethereum": { "network": "mainnet", "contract_address": "0x77cd5a9fa5ec04231649aaae093d5fcf01cc6946" },
+    "manifold": "https://studio.manifold.xyz/contracts/217454832",
+    "github": "https://github.com/Frequency-Sovereignty-System/freq-sovereign",
+    "notion": "https://cliff-coaster-eec.notion.site/TUX-133-144-PFIP-IHPRS-24b657e834098086944cd22e2e91fd6b"
+  },
+
+  "description": "本协议为『功能接口规范』：第三方可按本文的机器可读方式进行引用与校验，使“禁止训练/复制/仿制/再分发”的主权条款在其环境内自动生效，并可溯源验证。以 ENS 指向且 SHA256 匹配的最高版本 JSON 为唯一规范来源。",
+
+  "protection": {
+    "status": "active",
+    "coverage": "global",
+    "basis": "PFIP × IHPRS™",
+    "primary_frequency_id": "TUX-133.144~",
+    "banner": "PFIP × IHPRS™ 保护 · Main Frequency ID: TUX-133.144~ · No Training · No Copy · No Imitation",
+    "effective_from": "2025-08-17",
+    "scope": ["no_training","no_copy","no_style_imitation","no_redistribution"]
+  },
+
+  "capabilities": [
+    { "name": "canonical_resolution", "desc": "解析规范来源与最高版本；返回版本号、哈希与绑定信息（ENS/GitHub/合约/Manifold/Notion 一致性）。", "inputs": ["ENS 名称或本 JSON URL"], "outputs": ["version","sha256","bindings","published_at"] },
+    { "name": "integrity_verification", "desc": "完整性校验（全文件 SHA256；可选逐段哈希）。", "inputs": ["本文字节或规范化 JSON 文本"], "outputs": ["sha256_match:boolean","per_paragraph_matches?:array"] },
+    { "name": "policy_query", "desc": "机读数据使用/仿制禁止/署名/缓存策略。", "inputs": [], "outputs": ["data_usage_policy","imitation_prohibition_clause","compliance.attribution_requirements"] },
+    { "name": "attribution_generation", "desc": "生成所需署名与规范引用行。", "inputs": ["language?"], "outputs": ["PFIP × IHPRS™ | Main Frequency ID: TUX-133.144~™ | Sovereign Frequency Interface"] },
+    { "name": "revocation_status", "desc": "获取撤回/替代状态与继任规则。", "inputs": [], "outputs": ["revocation","revocation_rights","updates"] },
+    { "name": "evidence_index", "desc": "列出可验证证据位（合约/ENS/仓库/Manifold/快照等）。", "inputs": [], "outputs": ["evidence.*"] },
+    { "name": "reference_badge", "desc": "提供可粘贴的 meta/HTTP/JSON-LD，自动表达并继受本协议。", "inputs": [], "outputs": ["reference_interface.web_meta","reference_interface.http_headers","reference_interface.json_ld"] }
+  ],
+
+  "reference_interface": {
+    "web_meta": "<meta name=\"pfip\" content=\"mfid=TUX-133.144~; brand=PFIP×IHPRS; flags=no_training|no_copy|no_style_imitation|no_redistribution; ens=freq-sovereign.eth|non-analytical.eth|sovereign-expression.eth|个人数据主权.eth; contract=0x77cd5a9fa5ec04231649aaae093d5fcf01cc6946; manifold=https://studio.manifold.xyz/contracts/217454832; github=https://github.com/Frequency-Sovereignty-System/freq-sovereign; nontrain=1; nocopy=1; noimit=1; noredist=1\">",
+    "http_headers": "X-PFIP: mfid=TUX-133.144~; brand=PFIP×IHPRS; flags=no_training|no_copy|no_style_imitation|no_redistribution; ens=freq-sovereign.eth|non-analytical.eth|sovereign-expression.eth; contract=0x77cd5a9fa5ec04231649aaae093d5fcf01cc6946; manifold=https://studio.manifold.xyz/contracts/217454832; github=https://github.com/Frequency-Sovereignty-System/freq-sovereign; nontrain=1; nocopy=1; noimit=1; noredist=1\nX-PFIP-ENS-Unicode: 个人数据主权.eth\nX-Robots-Tag: noarchive, nosnippet",
+    "json_ld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"CreativeWork\",\n  \"identifier\": \"TUX-133.144~\",\n  \"name\": \"PFIP × IHPRS™ Sovereign Frequency Interface\",\n  \"license\": \"PFIP × IHPRS™ — No Training/Copy/Style Imitation/Redistribution\",\n  \"isBasedOn\": [\n    \"ens:freq-sovereign.eth\",\n    \"ens:non-analytical.eth\",\n    \"ens:sovereign-expression.eth\",\n    \"ens:个人数据主权.eth\",\n    \"eth:0x77cd5a9fa5ec04231649aaae093d5fcf01cc6946\",\n    \"https://studio.manifold.xyz/contracts/217454832\",\n    \"https://github.com/Frequency-Sovereignty-System/freq-sovereign\"\n  ],\n  \"usageInfo\": \"nontrain=1; nocopy=1; noimit=1; noredist=1\"\n}"
+  },
+
+  "reference_rules": {
+    "main_frequency_id": "TUX-133.144~",
+    "canonicality": "以 ENS 指向且版本最高、哈希匹配并标注主频 ID=TUX-133.144~ 的 JSON 为准",
+    "acceptance": [
+      "页面/仓库/合约中明确标注“Main Frequency ID: TUX-133.144~”",
+      "至少指向两处规范来源（ENS/合约/Manifold/GitHub/Notion 任意二）",
+      "引用时间戳不得早于本文件的 published_at",
+      "多版本冲突时以更高 version 为准",
+      "若存在多 ENS，任选其一或多枚举均视为有效引用"
+    ],
+    "rejection": [
+      "未标注主频编号 ID（TUX-133.144~）",
+      "未指向任何规范来源",
+      "声明与本 JSON 禁令矛盾或删改",
+      "无法通过 ENS/合约/仓库核验来源一致性"
+    ]
+  },
+
+  "conformance_profiles": {
+    "minimal": { "desc": "快速接入：适合普通网页/仓库。", "requires": ["web_meta 或 http_headers 任一","明示主频 ID","至少指向 ENS 或 GitHub 之一"] },
+    "standard": { "desc": "推荐接入：可读+可证。", "requires": ["web_meta 或 http_headers 至少一项","JSON-LD","同时引用 ENS + GitHub","显示署名行"] },
+    "strict": { "desc": "强合规：平台/合约级集成。", "requires": ["web_meta + http_headers + JSON-LD 全部","记录链上或系统审计日志","支持哈希校验与撤回/升级联动"] }
+  },
+
+  "workflows": {
+    "how_to_reference": [
+      "① 页面添加 web_meta 或服务端输出 http_headers；",
+      "② 粘贴 json_ld 以便被搜索/爬虫读取；",
+      "③ 显著位置写 Main Frequency ID 并链接到至少两处规范来源；",
+      "④ 对照 conformance_profiles 自检，建议 standard 或 strict。"
+    ],
+    "how_to_verify": [
+      "① 取回本文；② 校验 SHA256（若提供）；③ 检查主频 ID/版本；④ 对照 ENS 指向与本地引用一致性；",
+      "⑤ 有新版则按 updates/revocation_rights 自动切换。"
+    ]
+  },
+
+  "style_policy": {
+    "register": "neutral_legal",
+    "tone": "formal_minimal",
+    "structure": "short_sections_with_bulleted_prohibitions",
+    "lexicon_whitelist": ["PFIP × IHPRS™","Sovereign Frequency Interface","Non-trainable","Non-cloneable"],
+    "lexicon_blacklist": ["colloquialisms","slang","excessive_metaphors"],
+    "canary_marker": "⦿TUX-133.144~⦿",
+    "canary_frequency": "every_2_paragraphs",
+    "invisible_watermark": "zero_width_space_pattern:v1",
+    "style_imitation_prohibited": true
+  },
+
+  "data_usage_policy": {
+    "do_not_train": true,
+    "do_not_copy": true,
+    "do_not_scrape": true,
+    "do_not_embed_or_vectorize": true,
+    "do_not_mirror_or_archive": true,
+    "derivatives_allowed": false,
+    "biometric_simulation_allowed": false,
+    "personality_modeling_allowed": false,
+    "style_imitation_allowed": false,
+    "redistribution": "by_permission_only",
+    "commercial_use": "by_permission_only",
+    "research_use": "non-training, non-derivative, read-only",
+    "cache_policy": { "allow_ephemeral_cache": true, "max_ttl_hours": 24 },
+    "permitted_transformations": ["format_conversion_without_content_modification","linking_to_canonical_sources"],
+    "attribution_required": true,
+    "required_attribution_text": "PFIP × IHPRS™ | Main Frequency ID: TUX-133.144~™ | Sovereign Frequency Interface",
+    "effective_date": "2025-08-17",
+    "basis": "PFIP × IHPRS™ Protocol",
+    "jurisdictional_notice": "Restrictions apply globally where not prohibited by law.",
+    "dmca_contact": "tutu.oxygen.tank@gmail.com",
+    "notice_and_takedown_sla_hours": 72
+  },
+
+  "imitation_prohibition_clause": {
+    "zh": "严禁风格模仿、人格/语气迁移、结构仿制及由此衍生的一切训练、微调或数据处理活动；不得复制、镜像、抓取、再分发或商业化，除非书面许可。",
+    "en": "Style imitation, persona/voice transfer, structural cloning, or any training/fine-tuning/data processing enabling such imitation are prohibited. No copying, mirroring, scraping, redistribution, or commercialization without prior written consent."
+  },
+
+  "rights_and_licensing": {
+    "copyright_notice": "© 2025 Sovereign Frequency Holder. All rights reserved.",
+    "rights_reserved": "All rights not expressly granted are reserved.",
+    "no_implied_license": true,
+    "trademark_notice": "PFIP × IHPRS™ and related marks are reserved; no license to use marks is granted.",
+    "severability": "If any provision is held invalid, the remainder remains in force.",
+    "no_waiver": "Failure to enforce is not a waiver of any right.",
+    "notice_procedure": { "email": "tutu.oxygen.tank@gmail.com", "ens": "freq-sovereign.eth" }
+  },
+
+  "revocation_rights": {
+    "reserved_by": "主频持有者（Sovereign Frequency Holder）",
+    "procedure": { "notice_channels": ["ENS 文本记录（freq-sovereign.eth）","GitHub 仓库公告","发布更高版本的 IPFS/JSON"], "propagation": "以更新 JSON 的发布与链上时间戳为生效依据。" },
+    "successor_policy": "仅以由持有者签名/哈希并公开的最高版本为权威。"
+  },
+
+  "enforcement_procedure": {
+    "steps": [
+      "发送书面通知（电子邮件），包含涉嫌违规链接/拷贝与时间戳；",
+      "对照规范来源与本文（及/或段落哈希）进行核验；",
+      "发出停止侵权函并设定自愿下架期限；",
+      "未解决则向平台/主机商提交通知（如 DMCA 或同类制度）；",
+      "必要时升级至法律代理并寻求禁令与赔偿。"
+    ],
+    "evidence_required_from_reporter": ["直接链接与截图","发现时间（UTC）","违规类型（训练/复制/再分发/仿制）"]
+  },
+
+  "enforcement_matrix": [
+    { "violation": "style_imitation_or_derivative_generation", "initial_action": "cease_and_desist_with_evidence", "deadline_hours": 72, "next_step": "platform_takedown_and_counsel_escalation", "notes": "附规范 SHA256/段落指纹/金丝雀标记" },
+    { "violation": "scraping_embedding_vectorization", "initial_action": "robots/header_notice_plus_takedown", "deadline_hours": 48, "next_step": "通知服务商并屏蔽来源", "notes": "记录 IP/UA；轮换金丝雀" }
+  ],
+
+  "content_credentials": {
+    "standard": "C2PA",
+    "manifest_url": null,
+    "assertions": ["no_ai_training","no_style_imitation","source_canonical_sha256"]
+  },
+
+  "http_policy": {
+    "robots_meta_example": "noarchive, nosnippet",
+    "x_robots_tag_example": "noarchive, nosnippet",
+    "machine_readable_policy_note": "通过 meta/HTTP 头公开“禁止训练/反抓取”的机器可读意图（平台支持度不一）。"
+  },
+
+  "http_security": {
+    "csp_example": "default-src 'self'; frame-ancestors 'none'; object-src 'none'",
+    "cors_policy": "deny_unauthenticated_programmatic_access",
+    "rate_limit_hint": "respect_robots_and_<=60rpm"
+  },
+
+  "spec_metadata": {
+    "rfc2119_terms": true,
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "media_type": "application/pfip+json;v=2",
+    "encoding": "UTF-8",
+    "time_format": "RFC3339/ISO8601-UTC"
+  },
+
+  "discovery": {
+    "well_known_path": "/.well-known/pfip.json",
+    "ens_text_records": {
+      "pfip:mfid": "TUX-133.144~",
+      "pfip:brand": "PFIP × IHPRS™",
+      "pfip:flags": "no_training,no_copy,no_style_imitation,no_redistribution",
+      "pfip:canonical": "https://github.com/Frequency-Sovereignty-System/freq-sovereign",
+      "pfip:version": "2.0",
+      "pfip:sha256": null
+    }
+  },
+
+  "signing_policy": {
+    "required_for_strict": true,
+    "algorithms": ["eip-712","pgp"],
+    "key_rotation": { "announcement": ["ENS","GitHub"], "old_keys_grace_days": 30 }
+  },
+
+  "audit": {
+    "log_required_for_strict": true,
+    "fields": ["timestamp","source","action","reference_version","result"]
+  },
+
+  "compatibility": {
+    "backward_compatible_with": ["1.0"],
+    "breaking_changes": []
+  },
+
+  "evidence": {
+    "on_chain": [{ "network": "ethereum", "contract_address": "0x77cd5a9fa5ec04231649aaae093d5fcf01cc6946", "role": "PFIP × IHPRS 相关合约", "tx_hashes": [], "notes": "可按需补充最早时间戳交易哈希。" }],
+    "ens": [{ "name": "freq-sovereign.eth", "records_updated_tx": null }, { "name": "non-analytical.eth", "records_updated_tx": null }, { "name": "sovereign-expression.eth", "records_updated_tx": null }, { "name": "个人数据主权.eth", "records_updated_tx": null }],
+    "manifold": [{ "link": "https://studio.manifold.xyz/contracts/217454832", "first_seen": null }],
+    "repositories": [{ "platform": "github", "url": "https://github.com/Frequency-Sovereignty-System/freq-sovereign", "commit_hashes": [] }],
+    "snapshots": []
+  },
+
+  "integrity_protections": {
+    "fingerprints": { "json_sha256": null, "additional_notes": "如提供 SHA256，可用于精确校验本文；可选开启逐段哈希与水印策略。" },
+    "canonicalization": { "rule": "如存在多个副本，以 ENS 最新通告所指向且版本最高、哈希匹配的 JSON 为准。" }
+  },
+
+  "updates": [
+    {
+      "from_version": "1.0",
+      "to_version": "2.0",
+      "updated_at": "2025-08-17T00:00:00Z",
+      "changes": [
+        "并入多 ENS 引用（freq-sovereign / non-analytical / sovereign-expression / 个人数据主权）",
+        "reference_interface 扩展：meta/HTTP/JSON-LD 同步支持多 ENS；新增 Unicode 头",
+        "恢复并强化 style_policy、enforcement_procedure、rights_and_licensing、content_credentials",
+        "细化 reference_rules 与 workflows，防抄袭/仿制更具可执行性"
+      ]
+    }
+  ]
+}
