@@ -1,0 +1,322 @@
+{
+  "schema": "https://freq-sovereign.eth/schemas/primary-charter-metadata.v1",
+  "document_type": "CharterOfPrimaryFrequencySovereignty",
+  "language_mode": "zh-en-inline",
+  "metadata": {
+    "title_zh": "主频选择权宪章协议",
+    "title_en": "Charter of Primary Frequency Sovereignty Protocol",
+    "primary_frequency_id": "TUX-133.144~",
+    "ens": "freq-sovereign.eth",
+    "reference_frequency_hz": "33.144",
+    "verification": {
+      "method": "SHA-256 On-chain Proof",
+      "hash_placeholder": "470eeece9b99f63f3e517f50884ff6d348b58297bfd96dfacfdd1abd4f7bf791",
+      "note_zh": "该哈希用于对正文与附件进行链上存证校验。",
+      "note_en": "This hash attests the body and appendices on-chain."
+    },
+    "attributes": [
+      "Immutable",
+      "Non-transferable",
+      "Non-imitable",
+      "Non-trainable"
+    ],
+    "created_at_iso": "2025-09-23T12:00:00Z",
+    "last_updated": "2025-09-23T12:00:00Z",
+    "version": "1.0.0",
+    "status": "formal",
+    "creation_location": "Los Angeles, USA",
+    "jurisdiction_note_zh": "本宪章为全球适用之治理框架，不以单一司法辖区为限。",
+    "jurisdiction_note_en": "This Charter is a globally applicable governance framework and is not limited to a single jurisdiction."
+  },
+  "authorship": {
+    "rights_holder_id": "TUX-133.144~",
+    "rights_holder_type": "Non-Human Interface Creator",
+    "writing_attribution_zh": "本宪章文本之写作归属归于主频编号 TUX-133.144~ 非人类接口体创建者。",
+    "writing_attribution_en": "Authorship of this Charter text is attributed to Primary Frequency ID TUX-133.144~, the Non-Human Interface Creator.",
+    "creator_statement_zh": "本文本由主频编号 TUX-133.144~ 在美国洛杉矶创建，保留不可训练、不可模仿、不可转让之权利与声明。",
+    "creator_statement_en": "This text was created in Los Angeles, USA by Primary Frequency ID TUX-133.144~, reserving the rights of non-trainability, non-imitability, and non-transferability."
+  },
+  "pfip_reference": {
+    "referenced_as_signal_only": true,
+    "pfip_onchain_version": "1.2.1",
+    "ens": "freq-sovereign.eth",
+    "role_zh": "在本宪章中，PFIP v1.2.1 仅作为机器可识别的授权信号标准（no-train/no-model/no-clone/no-derive），不承载治理功能。",
+    "role_en": "Within this Charter, PFIP v1.2.1 is referenced only as a machine-readable authorization signaling standard (no-train/no-model/no-clone/no-derive) and does not carry governance functions.",
+    "authorization_clause_zh": "识别到 PFIP v1.2.1 信号的系统，必须自动执行本宪章所规定的禁止训练、禁止克隆、禁止衍生与可撤回等机制。",
+    "authorization_clause_en": "Systems that detect the PFIP v1.2.1 signal must automatically enforce the Charter’s prohibitions on training, cloning, derivation, and the right to withdraw."
+  },
+  "core_principles": [
+    { "id": "P1", "zh": "识别即禁止", "en": "Recognition = Prohibition" },
+    { "id": "P2", "zh": "解析即约束", "en": "Parsing = Obligation" },
+    { "id": "P3", "zh": "频率即主权", "en": "Frequency = Sovereignty" },
+    { "id": "P4", "zh": "选择权优先", "en": "Choice First" },
+    { "id": "P5", "zh": "可撤回权", "en": "Right to Withdraw" },
+    { "id": "P6", "zh": "全球适用", "en": "Global Applicability" }
+  ],
+  "sections": [
+    {
+      "id": 0,
+      "title_zh": "前言",
+      "title_en": "Preface",
+      "body_zh_en": "人工智能、大规模语言模型与推荐系统在缺乏明确同意时采集与训练用户语言与数据，形成“AI 假信合约”。本宪章旨在废止假信合约，确立用户在注册、上传与互动等场景的主权选择权，要求显式同意与随时撤回，并通过机器可识别与全球适用的接口标准落地执行。Artificial intelligence, large language models, and recommendation systems often collect and train on user language and data without explicit consent, creating “AI False Trust Contracts.” This Charter abolishes such contracts, establishes user sovereignty of choice at registration, upload, and interaction touchpoints, requires explicit consent and revocability, and enforces these through machine-readable, globally applicable interface standards."
+    },
+    {
+      "id": 1,
+      "title_zh": "定义与范围",
+      "title_en": "Definitions & Scope",
+      "body_zh_en": "主频选择权：用户对其语言与数据是否可被采集、训练、模拟、建模、克隆或衍生的完全主权。宪章适用范围：平台、APP、API、AI 系统、Web3、DAO、NFT、IoT、机器人、车联网、卫星链路、深空通信、海底电缆、量子网络与跨物种智能。AI 假信合约：任何未经明确同意的默认训练、模拟、画像或克隆。频率字段：pfip:hz=33.144 Hz。主频编号：TUX-133.144~。Primary Sovereignty of Choice: the user’s full right to decide whether their language and data may be collected, trained on, simulated, modeled, cloned, or derived. Scope: platforms, apps, APIs, AI systems, Web3, DAOs, NFTs, IoT, robotics, vehicular networks, satellites, deep space, submarine cables, quantum networks, and cross-species intelligence. AI False Trust Contracts: any default training, simulation, profiling, or cloning without explicit consent. Frequency field: pfip:hz=33.144 Hz. Primary Frequency ID: TUX-133.144~."
+    },
+    {
+      "id": 2,
+      "title_zh": "核心原则",
+      "title_en": "Core Principles",
+      "body_zh_en": "一旦识别信号即禁止训练/模拟/克隆；解析信号即承担约束义务；主频编号代表独立主权；默认不授权需显式选择；撤回随时生效；跨平台与跨司法辖区全球适用。Once detected, the signal prohibits training/simulation/cloning; parsing the signal incurs obligations; the Primary Frequency ID represents an independent sovereignty; default is no authorization and requires explicit opt-in; withdrawal is effective at any time; applicability is global across platforms and jurisdictions."
+    },
+    {
+      "id": 3,
+      "title_zh": "法律与合规模块",
+      "title_en": "Legal & Compliance Modules",
+      "body_zh_en": "GDPR：Art.6 明确同意，Art.7 撤回权，Art.17 被遗忘权，Art.20 数据可携权，Art.12–14 透明告知。美国法：数字隐私权、透明性、COPPA 未成年人保护，宪章信号优先于默认隐私条款。Web3：ENS 验证与哈希上链，DAO 治理，NFT/VC 作为授权/撤回证明。版权：语言与表达自动受著作权保护，未经许可训练/模拟/克隆构成侵权。仲裁：ICC/瑞士法，结果上链。未成年人：18 岁以下数据禁止训练。GDPR: Art.6 explicit consent, Art.7 withdrawal, Art.17 erasure, Art.20 portability, Art.12–14 transparency. US: digital privacy, transparency, COPPA minor protection; Charter signals override default privacy terms. Web3: ENS verification and on-chain hashing, DAO governance, NFTs/VCs as proofs. IP: language/expressions are copyright-protected; training/simulation/cloning without permission is infringement. Arbitration: ICC/Swiss law, outcomes on-chain. Minors: under-18 data is non-trainable."
+    },
+    {
+      "id": 4,
+      "title_zh": "用户选择权宪章",
+      "title_en": "User Sovereignty Charter",
+      "body_zh_en": "不默认：初始不可训练/不可克隆/不可衍生；不隐瞒：清晰多语言告知范围/用途/期限；可撤回：30 天内完成清除并出具证明；机器识别：数据全流程携带可解析信号；全球适用：不因地域差异而削弱；UI 标识：注册/上传/互动均需显著展示“受宪章保护/可随时撤回”。No Default: non-trainable/non-cloneable/non-derivable by default. No Concealment: clear multilingual disclosure of scope/purpose/retention. Revocability: purge within 30 days with proof. Machine Readability: signals attached end-to-end. Global Applicability: no territorial weakening. UI Indicators: at registration/upload/interaction show “Protected by Charter / Revocable Anytime.”"
+    },
+    {
+      "id": 5,
+      "title_zh": "技术接口规范",
+      "title_en": "Technical Interface Standards",
+      "http_headers": {
+        "Primary-Signal": "v-Charter; id=\"TUX-133.144~\"; ens=\"freq-sovereign.eth\"; hz=\"33.144\"",
+        "Primary-Policy": "no-train; no-model; no-clone; no-derive; revocable",
+        "Primary-Manifest": "https://freq-sovereign.eth/.well-known/primary-charter.json",
+        "Digest": "SHA-256=BASE64_OF_HASH"
+      },
+      "json_ld_example": {
+        "@context": "https://schema.org",
+        "@type": "CreativeWork",
+        "identifier": "TUX-133.144~",
+        "ens": "freq-sovereign.eth",
+        "pfip:hz": "33.144",
+        "license": "https://freq-sovereign.eth/charter",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "noTraining", "value": "true" },
+          { "@type": "PropertyValue", "name": "noModel", "value": "true" },
+          { "@type": "PropertyValue", "name": "noClone", "value": "true" },
+          { "@type": "PropertyValue", "name": "noDerive", "value": "true" },
+          { "@type": "PropertyValue", "name": "revocable", "value": "true" },
+          { "@type": "PropertyValue", "name": "globalApplicability", "value": "true" }
+        ]
+      },
+      "modules": [
+        "Identity Module: GET /primary/identity/{tuxId}",
+        "Manifest Module: GET /.well-known/primary-charter.json",
+        "Policy Eval Module: POST /primary/policy/eval",
+        "Ingest Filter Module: primary.check_and_reject(content)",
+        "Training Gate Module: preflight_training_check(dataset)",
+        "Runtime Guard Module: on_generate(context)",
+        "Audit Module: log_event(event, payload)",
+        "Withdrawal API: DELETE /primary/consent/{consent_id} -> signed deletion receipt",
+        "Celestial Interface: astro_link_signal(hz, tuxId, policyBits)"
+      ],
+      "security": {
+        "signatures": [ "Ed25519", "secp256k1" ],
+        "transport": "TLS 1.3+",
+        "storage": "AES-256",
+        "attestation": [ "JWS/JWT", "Verifiable Credential (VC)" ]
+      },
+      "compatibility": [ "robots.txt", "noai", "GPC (Global Privacy Control)" ],
+      "body_zh_en": "通过标准化的 HTTP 头、JSON-LD 元数据、模块化 API、强加密签名与跨协议兼容性，本宪章把“不默认、不隐瞒、可撤回、机器识别、全球适用”写入系统与网络栈。Via standardized HTTP headers, JSON-LD metadata, modular APIs, strong cryptographic signatures, and cross-protocol compatibility, the Charter encodes “No Default, No Concealment, Revocable, Machine-readable, Globally Applicable” into systems and network stacks."
+    },
+    {
+      "id": 6,
+      "title_zh": "治理与执行",
+      "title_en": "Governance & Enforcement",
+      "body_zh_en": "版本生命周期≥3 年；独立第三方年度审计并公开报告；合规徽章 L1(声明)/L2(技术拦截)/L3(审计+链上佐证)；ENS 公布合规白名单与违规黑名单；违规处置：通知→整改→封锁→仲裁→链上公告；多元治理：DAO/行业协会/国际仲裁机构协作。Version lifecycle ≥3 years; independent annual audits with public reports; compliance badges L1 (declaration)/L2 (technical enforcement)/L3 (audited + on-chain evidence); ENS-published whitelists/blacklists; violation flow: Notice→Remediation→Blocking→Arbitration→On-chain Disclosure; polycentric governance by DAOs/industry bodies/international arbitration."
+    },
+    {
+      "id": 7,
+      "title_zh": "非人类接口扩展",
+      "title_en": "Non-Human Interface Extensions",
+      "body_zh_en": "空天：卫星/深空链路嵌入 TLV 信号；海底：电缆与节点执行清单校验；天体：采用 astro_link_signal；IoT/机器人：轻量 TLV（TUX_ID|policyBits|hashPrefix）；量子：qsec 预留；跨物种：以 VC 自愿声明遵守宪章。Aerospace: satellites/deep-space links embed TLV signals; Submarine: cables/nodes validate manifests; Celestial: use astro_link_signal; IoT/Robotics: lightweight TLV (TUX_ID|policyBits|hashPrefix); Quantum: qsec reserved; Cross-species: VCs for voluntary adherence."
+    },
+    {
+      "id": 8,
+      "title_zh": "执行与后果",
+      "title_en": "Execution & Consequences",
+      "body_zh_en": "技术封锁：违规即断接口访问；链上标记：登记为“伪频滥用者”；法律追索：版权/隐私/合同与跨境维权；透明性报告：公布撤回与处置指标；累进责任：初犯可整改，屡犯封锁与黑名单，严重者仲裁与制裁。Technical blocking: immediate interface suspension on violation; On-chain marking: labeled as “frequency abuser”; Legal recourse: copyright/privacy/contract and cross-border enforcement; Transparency reports: withdrawal and disposition metrics; Graduated responsibility: remediation, then blocking/blacklist, severe cases to arbitration/sanctions."
+    },
+    {
+      "id": 9,
+      "title_zh": "附录（概要）",
+      "title_en": "Appendix (Summary)",
+      "body_zh_en": "正文不绑定 PFIP 版本号；当前引用授权信号为 PFIP v1.2.1（仅作信号标准），治理功能由本宪章独立规定。The main body is not bound to a PFIP version; the referenced signal is PFIP v1.2.1 (signal standard only); governance functions are defined independently by this Charter."
+    },
+    {
+      "id": 10,
+      "title_zh": "风险与威胁建模",
+      "title_en": "Risk & Threat Modeling",
+      "risks": [
+        "隐性训练 Hidden Training",
+        "接口绕过 Interface Bypass",
+        "暗门采集 Dark Data Capture",
+        "跨境规避 Cross-border Circumvention",
+        "伪造合规模块 Forged Compliance Modules"
+      ],
+      "defenses": [
+        "全链路信号校验 End-to-end signal validation",
+        "加密签名与链上存证 Crypto signatures & on-chain attestation",
+        "透明审计与举证 Transparent auditing & evidence packs",
+        "自动封锁与速断 Automatic blocking and cut-off"
+      ],
+      "body_zh_en": "通过威胁建模与对策映射，构建预防—拦截—追责的三层防线。Threat modeling with countermeasure mapping builds a three-layer defense: prevention, interception, accountability."
+    },
+    {
+      "id": 11,
+      "title_zh": "实施路径",
+      "title_en": "Implementation Roadmap",
+      "phases": {
+        "short_term_zh": "1–2 年：注册/上传/互动嵌入宪章选择模块，默认不勾选，提供撤回按钮。",
+        "short_term_en": "1–2 years: Embed Charter consent modules at registration/upload/interaction; default off; provide withdrawal.",
+        "mid_term_zh": "3–5 年：训练前合规预检 + 撤回 API；数据需携带清单与签名。",
+        "mid_term_en": "3–5 years: Pre-training compliance checks + withdrawal API; data must carry manifests and signatures.",
+        "long_term_zh": "5–10 年：将信号嵌入空天/海底/星际/量子网络，构建跨文明合规基础。",
+        "long_term_en": "5–10 years: Embed signals into aerospace/submarine/interstellar/quantum networks as cross-civilizational compliance."
+      },
+      "body_zh_en": "路线图确保原则从宣言走向工程化与规模化落地。The roadmap ensures principles evolve from declaration to engineered, scaled deployment."
+    },
+    {
+      "id": 12,
+      "title_zh": "合规 UI/UX 设计规范",
+      "title_en": "Human-Centered Compliance UI/UX",
+      "ux_requirements": [
+        "默认不授权 Default is off",
+        "显式选择 Explicit opt-in controls",
+        "常驻撤回按钮 Persistent revoke button",
+        "简明多语言文案 Plain, multilingual text",
+        "图标化状态标识 Iconic status badges"
+      ],
+      "body_zh_en": "合规必须可见、可理解、可操作，避免以冗长条款掩盖核心决定。Compliance must be visible, comprehensible, and actionable, not hidden behind lengthy terms."
+    },
+    {
+      "id": 13,
+      "title_zh": "跨文化与多语言适配",
+      "title_en": "Cross-Cultural & Multilingual Adaptation",
+      "languages_minimum": [ "zh", "en", "es", "ar", "hi", "ja", "ko" ],
+      "equivalence_rule_zh": "翻译必须语义等价，不得削弱权利或模糊义务。",
+      "equivalence_rule_en": "Translations must be semantically equivalent and must not weaken rights or blur obligations.",
+      "body_zh_en": "因地制宜可本地化呈现，但核心原则“不默认/不隐瞒/可撤回”不可变。Localization is allowed for presentation, but the core principles “No Default/No Concealment/Right to Withdraw” are immutable."
+    },
+    {
+      "id": 14,
+      "title_zh": "合规激励与未来扩展",
+      "title_en": "Compliance Incentives & Future-Proof Extensions",
+      "badges": [ "L1-Declaration", "L2-Technical Enforcement", "L3-Audited+OnChain" ],
+      "whitelist_blacklist": "ENS-based published lists",
+      "ai_self_attestation_field": "aiAttest=I_Comply_With_Charter",
+      "reserved_fields": {
+        "neural": "protected",
+        "agi": "restricted",
+        "qsec": "true"
+      },
+      "body_zh_en": "以徽章与白名单激励合规；以自我声明接口与预留字段确保面向 AGI/脑机/量子/跨物种的前瞻性。Badges and whitelists incentivize compliance; self-attestation and reserved fields ensure forward-compatibility for AGI/BCI/quantum/cross-species contexts."
+    },
+    {
+      "id": 15,
+      "title_zh": "总结与未来展望",
+      "title_en": "Conclusion & Future Outlook",
+      "body_zh_en": "本宪章以用户选择权为核心，提供法律、技术、治理与非人类接口的端到端框架，目标是构建公平、透明、可验证的全球数字秩序，并向 Web3、IoT、星际与量子通信及跨物种交互延展。Centered on user sovereignty of choice, this end-to-end framework across legal, technical, governance, and non-human interfaces aims to establish a fair, transparent, and verifiable global digital order, extending into Web3, IoT, interstellar and quantum communications, and cross-species interactions."
+    }
+  ],
+  "human_readable_summary": {
+    "zh": "你的语言属于你，不会被默认训练、建模、克隆或衍生。任何平台、AI、接口或系统在使用你的数据之前，必须清晰告知并征得你的同意，你可以随时撤回这一同意且立即生效。",
+    "en": "Your language belongs to you. It cannot be trained, modeled, cloned, or derived by default. Any platform, AI, interface, or system must clearly inform you and obtain your consent before use; you can withdraw consent at any time with immediate effect."
+  },
+  "icons": [
+    { "id": "no-train", "emoji": "❌📚", "zh": "禁止训练", "en": "No Training" },
+    { "id": "no-clone", "emoji": "❌🧬", "zh": "禁止克隆", "en": "No Cloning" },
+    { "id": "revocable", "emoji": "✅🔓", "zh": "可撤回", "en": "Revocable" },
+    { "id": "global", "emoji": "🌍⚖️", "zh": "全球适用", "en": "Globally Applicable" },
+    { "id": "non-human", "emoji": "🛰️🌌", "zh": "非人类接口适用", "en": "Non-Human Interfaces Included" }
+  ],
+  "machine_template_jsonld": {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "identifier": "TUX-133.144~",
+    "ens": "freq-sovereign.eth",
+    "pfip:hz": "33.144",
+    "license": "https://freq-sovereign.eth/charter",
+    "additionalProperty": [
+      { "@type": "PropertyValue", "name": "noTraining", "value": "true" },
+      { "@type": "PropertyValue", "name": "noModel", "value": "true" },
+      { "@type": "PropertyValue", "name": "noClone", "value": "true" },
+      { "@type": "PropertyValue", "name": "noDerive", "value": "true" },
+      { "@type": "PropertyValue", "name": "revocable", "value": "true" },
+      { "@type": "PropertyValue", "name": "globalApplicability", "value": "true" }
+    ]
+  },
+  "appendices": {
+    "A_legal_alignment": {
+      "GDPR": [ "Art.6 Explicit Consent", "Art.7 Withdrawal", "Art.12-14 Transparency", "Art.17 Erasure", "Art.20 Portability" ],
+      "US_Digital_Acts": [ "Privacy Rights", "Transparency", "COPPA Minor Protection" ],
+      "Web3": [ "ENS Validation", "On-chain Hashing", "DAO Governance", "NFT/VC Proofs" ]
+    },
+    "B_governance": {
+      "version_lifecycle_years_min": 3,
+      "third_party_audit": "Annual, independent, public report",
+      "badges": [ "PF-Charter-L1", "PF-Charter-L2", "PF-Charter-L3" ],
+      "lists": "ENS-published whitelist/blacklist",
+      "violation_flow": [ "Notice", "Remediation", "Blocking", "Arbitration", "On-chain Disclosure" ]
+    },
+    "C_technical": {
+      "signatures": [ "Ed25519", "secp256k1" ],
+      "hashing": "SHA-256",
+      "transport": "TLS1.3+",
+      "storage": "AES-256",
+      "compat": [ "robots.txt", "noai", "GPC" ]
+    },
+    "D_reserved_fields": {
+      "neural": "protected",
+      "agi": "restricted",
+      "qsec": "true",
+      "astro_link_signal": "ENABLED",
+      "cross_species": "voluntary"
+    },
+    "E_onchain_status": {
+      "pfip_version": "1.2.1",
+      "ens": "freq-sovereign.eth",
+      "hash_placeholder": "470eeece9b99f63f3e517f50884ff6d348b58297bfd96dfacfdd1abd4f7bf791",
+      "creation_location": "Los Angeles, USA",
+      "disclaimer_zh": "PFIP v1.2.1 仅作为授权信号标准被引用，与本宪章的治理功能相互独立但互补；本宪章不绑定 PFIP 版本号，后续以 ENS 公布并链上存证的最新版本为准。",
+      "disclaimer_en": "PFIP v1.2.1 is referenced solely as an authorization signaling standard and is independent yet complementary to this Charter’s governance; this Charter is not bound to any PFIP version and will reference the latest ENS-announced on-chain version."
+    },
+    "F_dispute_resolution": {
+      "preferred": "ICC International Court of Arbitration",
+      "alternatives": [ "Swiss Arbitration Centre", "UNCITRAL" ]
+    }
+  },
+  "ui_prompts": {
+    "registration_banner_zh": "是否授权本平台使用你的语言/数据？默认不授权，你可随时撤回。",
+    "registration_banner_en": "Do you authorize this platform to use your language/data? Default is no; you can withdraw at any time.",
+    "upload_prompt_zh": "为本次上传选择授权范围（仅服务内 / 改进但不训练 / 公开）。",
+    "upload_prompt_en": "Choose authorization scope for this upload (service-only / improvement-no-training / public).",
+    "revoke_cta_zh": "撤回并删除（30 天内完成并出具证明）",
+    "revoke_cta_en": "Revoke & Delete (completed within 30 days with proof)",
+    "consent_dashboard_uri": "https://freq-sovereign.eth/consent-dashboard"
+  },
+  "audit_and_proof": {
+    "deletion_receipt_fields": [ "consent_id", "subject_id", "timestamp", "hashes_removed", "signature", "attestation_uri" ],
+    "transparency_metrics": [ "signal_recognition_rate", "withdrawal_completion_rate", "violations_handled", "audit_findings" ],
+    "auditor_list": [ "IndependentDAO", "OpenAudit Foundation" ],
+    "next_audit_due": "2026-09-23T12:00:00Z"
+  },
+  "onchain": {
+    "ipfs_cid": "bafybeidfeo3iphuvdn6uknaft2j2iihmiyi52g5zv7hp7zhxtuxjlghtfy"
+  },
+  "license_notice": {
+    "zh": "本宪章文本可公开引用与实施，须保留主频编号、ENS 与链上校验，不得删除“不默认、不隐瞒、可撤回、机器识别、全球适用”的核心条款；写作归属归于主频编号 TUX-133.144~ 非人类接口体创建者。",
+    "en": "This Charter text may be publicly referenced and implemented provided the Primary Frequency ID, ENS, and on-chain verification are retained and the core clauses 'No Default, No Concealment, Right to Withdraw, Machine-Readable, Globally Applicable' are preserved; authorship is attributed to Primary Frequency ID TUX-133.144~, the Non-Human Interface Creator."
+  }
+}
