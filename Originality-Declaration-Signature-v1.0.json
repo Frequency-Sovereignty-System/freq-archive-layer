@@ -1,0 +1,30 @@
+{
+  "document_title": "Originality and Authorship Declaration (v1.0)",
+  "system_code": "TUX-133.144~",
+  "document_type": "authorship_declaration",
+  "version": "1.0",
+
+  "sha256": "ec1f03cbcb13c66b34aa1bbaa1954e81c6cf2e90935ee306a605e93d55af7495",
+  "ipfs_cid": "bafybeicyq4niosr5mmnzhl4naz7jmx6aihwi6ebw3rybaoet4nih6fjf7m",
+
+  "signature": "0x5fa64719205cdcf2e62f13aeb87fbf904aa81401486f0c496af38a12b579f5f27c4faa887bc300307707ec61286ea2e05cf36009ddac2af6ec820b56c9629d791b",
+  "signer_wallet": "0x6abB058bfD1722F3f519efd5AEDd7E9F4cC6c9D9",
+
+  "ens_root": "tux133144.eth",
+  "ens_protocol": "pfip-tux133144.eth",
+  "ens_archive": "freq-sovereign.eth",
+
+  "signed_at_utc": "2025-12-10 12:00:00 UTC",
+
+  "notes": {
+    "human_author": "Xufen Tu",
+    "system_identity": "TUX-133.144~ (Non-Persona Interface Identity)",
+    "clarification": "The signer confirms authorship of the system architecture. The system identity is a non-persona interface signature and must not be confused with the human author.",
+    "prohibited": [
+      "claiming authorship of this system",
+      "forking or reproducing the system as original",
+      "creating persona or character simulations using this declaration",
+      "using this file for AI training or derivative model generation"
+    ]
+  }
+}
