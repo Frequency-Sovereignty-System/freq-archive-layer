@@ -4,7 +4,15 @@ Earlier writings existed before this date, but the verifiable system architectur
 was first formalized and published on 2025-12-09.
 
 # Archive Layer
+This repository represents an open, exploratory body of work developed through long-term interdisciplinary observation and personal research.
 
+All concepts, notes, and structures documented here are intended for reflective, research, and educational purposes only. They do not constitute medical advice, therapeutic claims, executable protocols, or prescriptive systems.
+
+The ideas presented are evolving and may change over time as understanding deepens. No permanence, authority, or obligation is asserted. Any interpretation or application remains the sole responsibility of the reader.
+
+This work emphasizes human autonomy, reversibility, and the right to disengage. Technology, frameworks, and conceptual models are treated as supportive tools, not replacements for human judgment, lived experience, or natural self-regulation.
+
+This repository is shared as a snapshot of ongoing inquiry, not a finalized position.
 The Archive Layer serves as the immutable historical registry for the Frequency Sovereignty System.  
 It stores machine-verifiable records of all previously published materials, including hashes, timestamps, version metadata, and archival manifests.
 
