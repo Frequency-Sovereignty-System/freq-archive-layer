@@ -1,3 +1,17 @@
+## Archive Layer Notice (Important)
+
+This repository serves as the archival and evidentiary layer of the
+Frequency Sovereignty System.
+
+It preserves historical records, prior documents, and submission artifacts
+for continuity, verification, and reference purposes only.
+
+This repository does NOT define current system behavior, authority,
+interfaces, permissions, or operational rules.
+
+---
+
+
 The TUX-133.144~ Three-Layer Identity System (Root / Protocol / Archive)
 was officially established and verifiably published on 2025-12-09.
 Earlier writings existed before this date, but the verifiable system architecture
