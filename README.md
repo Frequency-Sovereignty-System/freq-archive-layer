@@ -1,97 +1,92 @@
-# Archive Layer — Frequency Sovereignty System
+# Human Understanding Guide
+Version 2.0
 
-## Current Status Notice (Important)
+## Purpose
 
-This repository serves as the **Archive and Evidentiary Layer** of the
-Frequency Sovereignty System.
+This document exists solely to support correct human understanding,
+reference, and discussion of the system.
 
-Its sole purpose is to preserve historical records, prior documents,
-submission artifacts, and continuity evidence for **verification,
-traceability, and reference**.
+It is provided to prevent misinterpretation and misuse.
 
-**This repository does NOT define:**
-- Current system behavior
-- Active interfaces
-- Permissions or access rights
-- Authorization rules
-- Executable, callable, or operational system capabilities
-
-Authoritative definitions of the active system are maintained in:
-- **Root Layer** — Root Declaration v2.0
-- **Protocol Layer** — Interface Declarations v2.0
+This document does NOT define system behavior, interfaces, permissions,
+authorization, or any executable capability.
 
 ---
 
-## Human Understanding & Reference
+## What This System Provides
 
-This repository includes a document intended solely to support
-**correct human understanding, reference, and discussion**:
+This system provides:
+- A method of thinking
+- A structural framework
+- Authored perspectives
 
-- **HUMAN_UNDERSTANDING_GUIDE_v2.md**
+It offers ways to analyze, reflect, and reason.
 
-This guide exists to clarify conceptual boundaries and authorship.
-It does **not** grant authorization, execution rights, or permission
-to apply, automate, or operationalize this system.
-
----
-
-## System Establishment Timeline
-
-The TUX-133.144~ Three-Layer Identity System
-(Root / Protocol / Archive)
-was formally established and verifiably published on **2025-12-09**.
-
-Materials created prior to this date are preserved here as historical
-records only and do **not** define the current system architecture.
+It does NOT provide tools, functions, services, automation,
+or executable mechanisms.
 
 ---
 
-## Historical Records (Non-Authoritative)
+## How This System May Be Referenced
 
-The following directories and files are preserved strictly for
-historical continuity and research reference:
+Human readers may reference ideas, structures, or conceptual distinctions
+from this system with attribution.
 
-- `Fusion-Docs-v1.0/`
-- `Fusion-Docs-v1.1/`
-- `Historical-PFIP/`
-- Early whitepapers, JSON files, and submission records
-- Any documents labeled v1.x
+All references must preserve original intent and contextual meaning.
 
-**These materials:**
-- Do not define current system state
-- Carry no interface or authorization authority
-- Must not be interpreted as active specifications
+Referencing does NOT grant any right to implement, automate,
+execute, or operationalize the system.
 
 ---
 
-## Archive Layer Role Summary
+## What This System Is Not
 
-The Archive Layer exists exclusively to:
+This system is NOT:
+- A tool
+- A service
+- An application
+- A decision engine
 
-- Preserve historical continuity
-- Provide authorship and timestamp evidence
-- Prevent misinterpretation of the system as a live product or service
+It does NOT replace professional judgment or expertise.
 
-This layer issues no instructions, enables no execution,
-and performs no operational function.
+It is NOT designed to be embedded into software,
+automated workflows, or decision systems.
 
 ---
 
-_End of Archive Layer README_
+## Appropriate Use Examples
 
+- Academic discussion and citation
+- Conceptual inspiration with attribution
+- Human-to-human dialogue and collaborative exploration
 
+---
 
+## Inappropriate Use Examples
 
-## Archive Layer Notice (Important)
+- Automated deployment or execution
+- Use as a decision-making authority
+- Representation as a product or service
 
-This repository serves as the archival and evidentiary layer of the
-Frequency Sovereignty System.
+---
 
-It preserves historical records, prior documents, and submission artifacts
-for continuity, verification, and reference purposes only.
+## Relationship to Authorization
 
-This repository does NOT define current system behavior, authority,
-interfaces, permissions, or operational rules.
+Human understanding and reference do NOT constitute authorization.
+
+Any execution, application, or operational use requires
+explicit human authorization under the
+Authorization & Collaboration Guide.
+
+---
+
+## Closing Clarification
+
+Understanding this system does NOT imply agreement,
+participation, or adoption.
+
+Correct understanding is defined by respect for boundaries,
+authorship, and human agency.
 
 ---
 
