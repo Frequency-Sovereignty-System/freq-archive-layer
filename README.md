@@ -1,92 +1,29 @@
-# Human Understanding Guide
-Version 2.0
+Current Status Notice (Important)
 
-## Purpose
+This repository functions as the Archive and Evidentiary Layer of the
+Frequency Sovereignty System.
 
-This document exists solely to support correct human understanding,
-reference, and discussion of the system.
+As of version 2.0, this repository serves exclusively to preserve
+historical records, prior documents, submission artifacts, and
+continuity evidence for verification, traceability, and reference.
 
-It is provided to prevent misinterpretation and misuse.
+All materials preserved here that predate or differ from the current
+authoritative declarations are maintained strictly as historical records
+and are explicitly superseded by the active system definitions.
 
-This document does NOT define system behavior, interfaces, permissions,
-authorization, or any executable capability.
+This repository does NOT define current system behavior, active
+interfaces, permissions, authorization rules, or any executable,
+callable, or operational capabilities.
 
----
+Authoritative definitions of the active system are maintained solely in:
+- Root Layer — Root Declaration v2.0
+- Protocol Layer — Interface Declarations v2.0
 
-## What This System Provides
+This repository includes a Human Understanding Guide intended solely
+to support correct human interpretation and reference.
+It does not define system behavior, interfaces, permissions,
+or grant authorization of any kind.
 
-This system provides:
-- A method of thinking
-- A structural framework
-- Authored perspectives
-
-It offers ways to analyze, reflect, and reason.
-
-It does NOT provide tools, functions, services, automation,
-or executable mechanisms.
-
----
-
-## How This System May Be Referenced
-
-Human readers may reference ideas, structures, or conceptual distinctions
-from this system with attribution.
-
-All references must preserve original intent and contextual meaning.
-
-Referencing does NOT grant any right to implement, automate,
-execute, or operationalize the system.
-
----
-
-## What This System Is Not
-
-This system is NOT:
-- A tool
-- A service
-- An application
-- A decision engine
-
-It does NOT replace professional judgment or expertise.
-
-It is NOT designed to be embedded into software,
-automated workflows, or decision systems.
-
----
-
-## Appropriate Use Examples
-
-- Academic discussion and citation
-- Conceptual inspiration with attribution
-- Human-to-human dialogue and collaborative exploration
-
----
-
-## Inappropriate Use Examples
-
-- Automated deployment or execution
-- Use as a decision-making authority
-- Representation as a product or service
-
----
-
-## Relationship to Authorization
-
-Human understanding and reference do NOT constitute authorization.
-
-Any execution, application, or operational use requires
-explicit human authorization under the
-Authorization & Collaboration Guide.
-
----
-
-## Closing Clarification
-
-Understanding this system does NOT imply agreement,
-participation, or adoption.
-
-Correct understanding is defined by respect for boundaries,
-authorship, and human agency.
 
 ---
 
