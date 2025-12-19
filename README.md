@@ -27,11 +27,11 @@ or grant authorization of any kind.
 
 ---
 
-
 The TUX-133.144~ Three-Layer Identity System (Root / Protocol / Archive)
 was officially established and verifiably published on 2025-12-09.
 Earlier writings existed before this date, but the verifiable system architecture
 was first formalized and published on 2025-12-09.
+The content below consists solely of historical records, research notes, or technical archives and does not define the current system state.
 
 # Archive Layer
 This repository represents an open, exploratory body of work developed through long-term interdisciplinary observation and personal research.
