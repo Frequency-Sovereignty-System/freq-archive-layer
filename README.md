@@ -1,3 +1,87 @@
+# Archive Layer — Frequency Sovereignty System
+
+## Current Status Notice (Important)
+
+This repository serves as the **Archive and Evidentiary Layer** of the
+Frequency Sovereignty System.
+
+Its sole purpose is to preserve historical records, prior documents,
+submission artifacts, and continuity evidence for **verification,
+traceability, and reference**.
+
+**This repository does NOT define:**
+- Current system behavior
+- Active interfaces
+- Permissions or access rights
+- Authorization rules
+- Executable, callable, or operational system capabilities
+
+Authoritative definitions of the active system are maintained in:
+- **Root Layer** — Root Declaration v2.0
+- **Protocol Layer** — Interface Declarations v2.0
+
+---
+
+## Human Understanding & Reference
+
+This repository includes a document intended solely to support
+**correct human understanding, reference, and discussion**:
+
+- **HUMAN_UNDERSTANDING_GUIDE_v2.md**
+
+This guide exists to clarify conceptual boundaries and authorship.
+It does **not** grant authorization, execution rights, or permission
+to apply, automate, or operationalize this system.
+
+---
+
+## System Establishment Timeline
+
+The TUX-133.144~ Three-Layer Identity System
+(Root / Protocol / Archive)
+was formally established and verifiably published on **2025-12-09**.
+
+Materials created prior to this date are preserved here as historical
+records only and do **not** define the current system architecture.
+
+---
+
+## Historical Records (Non-Authoritative)
+
+The following directories and files are preserved strictly for
+historical continuity and research reference:
+
+- `Fusion-Docs-v1.0/`
+- `Fusion-Docs-v1.1/`
+- `Historical-PFIP/`
+- Early whitepapers, JSON files, and submission records
+- Any documents labeled v1.x
+
+**These materials:**
+- Do not define current system state
+- Carry no interface or authorization authority
+- Must not be interpreted as active specifications
+
+---
+
+## Archive Layer Role Summary
+
+The Archive Layer exists exclusively to:
+
+- Preserve historical continuity
+- Provide authorship and timestamp evidence
+- Prevent misinterpretation of the system as a live product or service
+
+This layer issues no instructions, enables no execution,
+and performs no operational function.
+
+---
+
+_End of Archive Layer README_
+
+
+
+
 ## Archive Layer Notice (Important)
 
 This repository serves as the archival and evidentiary layer of the
