@@ -1,28 +1,64 @@
-Current Status Notice (Important)
+CURRENT STATUS NOTICE (IMPORTANT)
 
-This repository functions as the Archive and Evidentiary Layer of the
-Frequency Sovereignty System.
+This repository functions as the
+Archive and Evidence Layer of the Frequency Sovereignty System.
 
-As of version 2.0, this repository serves exclusively to preserve
-historical records, prior documents, submission artifacts, and
-continuity evidence for verification, traceability, and reference.
+Starting from version 2.0,
+this repository is dedicated to preserving:
+- historical records,
+- prior-version documents,
+- submitted materials,
+- and continuity-of-existence evidence,
 
-All materials preserved here that predate or differ from the current
-authoritative declarations are maintained strictly as historical records
-and are explicitly superseded by the active system definitions.
+for purposes of verification, traceability, and reference.
 
-This repository does NOT define current system behavior, active
-interfaces, permissions, authorization rules, or any executable,
-callable, or operational capabilities.
+---
 
-Authoritative definitions of the active system are maintained solely in:
-- Root Layer — Root Declaration v2.0
-- Protocol Layer — Interface Declarations v2.0
+STATUS AND APPLICABILITY
 
-This repository includes a Human Understanding Guide intended solely
-to support correct human interpretation and reference.
-It does not define system behavior, interfaces, permissions,
-or grant authorization of any kind.
+All materials stored in this repository,
+including those created prior to or differing from
+current authoritative declarations,
+are retained strictly as historical and archival records.
+
+These materials:
+- do not serve as current authoritative system definitions,
+- do not define active system behavior,
+- do not define interfaces, permissions, or authorization rules,
+- and do not provide any executable, callable, or operational functionality.
+
+Their purpose is to document system evolution
+and provide continuity and provenance evidence,
+not to replace, modify, or override current system definitions.
+
+---
+
+AUTHORITATIVE DEFINITION LOCATION
+
+Current authoritative definitions of the active system
+are maintained exclusively in:
+
+- Root Layer: Root Declaration v2.0
+- Protocol Layer: Interface Declarations v2.0
+
+This repository does not perform an authoritative role
+and does not participate in system execution,
+control, governance, or operation.
+
+---
+
+HUMAN INTERPRETATION ASSISTANCE
+
+This repository includes a “Human Understanding Guide”
+intended solely to assist human readers
+in correctly interpreting and referencing archival materials.
+
+This guide:
+- does not define system behavior,
+- does not define interfaces or permissions,
+- does not grant authorization or delegation,
+- and does not participate in execution or runtime operation.
+
 
 
 ---
