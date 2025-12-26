@@ -136,12 +136,23 @@ The Archive Layer ensures:
 4. *Neutrality* — No subjective or human-layer content is stored here
 
 This layer functions strictly as a *historical registry*, supporting transparency and long-term verification for the entire system.
+
 ---
 Verification and Provenance Reference
 
-The following identifiers are provided solely for
+This reference applies to the following document:
+
+File name:
+Non-Executable_Safety_Use-Boundary_Reference_v1.0.md
+
+The identifiers below are provided solely for
 content verification and historical provenance.
 
-IPFS CID: bafybeicurefftgcbp53ikqml3mzt4jbxdhqzyio7hzw3jhiopgnbn6by5e
-SHA256 ：a98e17a8835e07bf93f85471c28ac5d744454a85915db6e245723d2280038148
+IPFS CID:
+bafybeicurefftgcbp53ikqml3mzt4jbxdhqzyio7hzw3jhiopgnbn6by5e
+
+
+SHA256:
+a98e17a8835e07bf93f85471c28ac5d744454a85915db6e245723d2280038148
+
 
