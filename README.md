@@ -1,17 +1,25 @@
-CURRENT STATUS NOTICE (IMPORTANT)
+## Archive Layer Notice (Important)
 
-This repository functions as the
-Archive and Evidence Layer of the Frequency Sovereignty System.
+This repository serves exclusively as the archival and evidence layer
+of the Frequency Sovereignty System.
 
-Starting from version 2.0,
-this repository is dedicated to preserving:
-- historical records,
-- prior-version documents,
-- submitted materials,
-- and continuity-of-existence evidence,
+It preserves historical records, prior-version documents,
+submission snapshots, and provenance materials
+for reference, traceability, and verification purposes only.
 
-for purposes of verification, traceability, and reference.
+This repository does not define system identity,
+does not establish root authority,
+and does not participate in interpretive precedence,
+version governance, or ambiguity resolution.
 
+All system-level authority, interpretation,
+and version resolution are defined exclusively
+by the Root Declaration v3.0:
+
+https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT_DECLARATION_v3.0 md
+
+
+ 
 ---
 
 STATUS AND APPLICABILITY
