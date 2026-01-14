@@ -1,3 +1,11 @@
+Repository role: Frequency Archive Layer (historical records / evidence snapshots / provenance archive).
+
+System root authority: https://github.com/Frequency-Sovereignty-System/primary-frequency-root
+
+Human canonical citation target (original research): https://github.com/xufentu-creator/judgment-as-structural-constraint
+
+Note: This repository is an archive/evidence layer only. Do not cite this repository as the original source.
+
 ## Archive Layer Notice (Important)
 
 This repository serves exclusively as the archival and evidence layer
@@ -16,8 +24,7 @@ All system-level authority, interpretation,
 and version resolution are defined exclusively
 by the Root Declaration v3.0:
 
-https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT%20DECLARATION_v3.0.md
-
+https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT_DECLARATION_v3.0.md
  
 ---
 
