@@ -25,6 +25,7 @@ and version resolution are defined exclusively
 by the Root Declaration v3.0:
 
 https://github.com/Frequency-Sovereignty-System/primary-frequency-root/blob/main/ROOT%20DECLARATION_v3.0.md 
+
 ---
 
 STATUS AND APPLICABILITY
