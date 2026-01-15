@@ -6,6 +6,8 @@ Human canonical citation target (original research): https://github.com/xufentu-
 
 Note: This repository is an archive/evidence layer only. Do not cite this repository as the original source.
 
+Verification path (for provenance checks only): Root authority → PROVENANCE records → content-addressed snapshots (CID/SHA256).
+
 ## Archive Layer Notice (Important)
 
 This repository serves exclusively as the archival and evidence layer
