@@ -291,6 +291,220 @@ ec1f03cbcb13c66b34aa1bbaa1954e81c6cf2e90935ee306a605e93d55af7495
 
 ---
 
+# Additional ENS Archive Records
+freq-sovereign.eth
+
+The following records were previously stored or referenced under ENS text records
+associated with freq-sovereign.eth and are preserved here for archival reference,
+provenance verification, and historical protocol evolution tracking.
+
+---
+
+## Interface References
+
+avatar
+
+notion-homepage  
+https://www.notion.so/Sovereign-Expression-Gateway-24b657e834098086944cd22e2e91fd6b?pvs=21  
+uploaded: 2025-08-15
+
+---
+
+## PFIP Initial Release
+
+pfip-tux-133.144-2025-08-23.pdf  
+https://bafybeibk7dcdvabratccevoniwrfvwem77a2xm67q5sbcadv2ycxvok6fy.ipfs.w3s.link/  
+uploaded: 2025-08-23
+
+pfip-tux-133.144-2025-08-23.json  
+https://bafybeicatrwnqs7jrxikc5mhbb5vycgdo5rz5orxhylec7v3xdo4ft2aqu.ipfs.w3s.link/  
+uploaded: 2025-08-23
+
+---
+
+## PFIP Protocol Update v1.2
+
+pfip-tux-133.144-update-v1.2-2025-08-25-json  
+https://bafybeicnilm4drc42ktd6oxls66gauefsq32w4qr3qf2hzwvqysohpqalu.ipfs.w3s.link/
+
+pfip-tux-133.144-update-v1.2-2025-08-25-pdf  
+https://bafybeibc5sr6tsib66jkilb5244glkdndzfslexmtu4yir4keaphxcoh2a.ipfs.w3s.link/
+
+pfip-tux-133.144-update-v1.2-2025-08-25-sha256  
+https://bafybeicil2wlceh7dipij2w5qlrtqqhdljw5h5u5v3gi22cmuiq2k7ckh4.ipfs.w3s.link/
+
+uploaded: 2025-08-25
+
+---
+
+## TUX-133.144 Whitepaper
+
+tux-133.144-whitepaper-v1.0-2025-08-29-json  
+https://bafybeie2arw672f7ayu2nknnd5brep3fpraovgu3hkzthq6zw2ukyrxbym.ipfs.w3s.link/
+
+tux-133.144-whitepaper-v1.0-2025-08-29-pdf  
+https://bafybeibwvmwkomczuhse2cqyfufuft4zovtgs2e5bsng3w2s6nop6wey7a.ipfs.w3s.link/
+
+uploaded: 2025-08-29
+
+---
+
+## PFIP Metadata Records
+
+pfip:title  
+pfip™ white paper v1.0.1 (amended version)
+
+pfip:version  
+
+pfip:changelog  
+v1.0.1-amended (2025-09-05): Governance model updated. DAO governance removed and replaced by FSCS (Frequency Sovereignty Co-Creation System).
+
+pfip:sha256  
+beeb36ab7e063ef19ac8d12de6d813e658d058112125f7539e3735f1630afc7f
+
+pfip:cid  
+bafybeidrhzzfj6zes6jrtwyfo6r7k4v3n72y7dhnemb6caw2o266thduam
+
+pfip:flags  
+non-trainable, non-cloneable, non-anthropomorphizable
+
+pfip:pdf-cid  
+bafybeiegcvpc7ftbcybouaxjtjavym6h6owy4bb4zfdmma6qyufwnlgcuy
+
+---
+
+## PFIP Protocol Update v1.2.1
+
+pfip-tux-133.144-protocol-update-v1.2.1-2025-09-05.sha256  
+b7648aa3ccb0e527c40bf9fc2c9014b07c5ba93329450621381afeacaef6daf1
+
+pfip-tux-133.144-protocol-update-v1.2.1-2025-09-05.cid  
+bafybeicpdcxykj72q2gebpjoru7cdzyec2ktw2xqjqlkly6ijjszoyxs6m
+
+pfip:flags-tux-133.144-protocol-update-v1.2.1  
+non-trainable, non-cloneable, non-imitable, non-anthropomorphizable, non-redistributable
+
+uploaded: 2025-09-05
+
+---
+
+## Blood Moon Declaration
+
+pfip:tux-133.144-declaration-2025-09-06  
+
+blood moon declaration v1.0  
+mfid: tux-133.144~  
+protocol: pfip™  
+
+flags:  
+non-trainable  
+non-cloneable  
+non-imitable  
+non-anthropomorphizable  
+non-redistributable  
+
+scope: global-permanent
+
+pfip:tux-133.144-declaration-2025-09-06-cid.json  
+bafybeiefuropntfmu4sd26uwncgdt5wp5a3l6jl3qkvlyhz45wv34csilm
+
+pfip:tux-133.144-declaration-2025-09-06-sha256.json  
+3cee52363d5a63319bf38b7303a52e2eb7d985daaaca57575788fc4ba4c6ca34
+
+pfip:tux-133.144-declaration-2025-09-06-sha256.pdf  
+52d98d0963ba1a493804f1ab2e27a103c7bff59e27c1dc06c08794445f04275d
+
+uploaded: 2025-09-06
+
+---
+
+## Primary Frequency Sovereignty Charter
+
+Primary Frequency Sovereignty Charter v1.0.0  
+
+MFID: TUX-133.144~  
+ENS: freq-sovereign.eth  
+Signal Frequency: 33.144Hz  
+
+Principles:
+
+No Default Authorization  
+No Concealment  
+Revocable Control  
+Machine-Readable Structure  
+Globally Applicable
+
+Reference Protocol: PFIP v1.2.1 (signal standard only)
+
+CID  
+bafybeie5blkcineg6izoh57i5vyvcommjvfalmvpseb6dtqgexnxe3cuaq
+
+SHA256  
+7301794a232503ecfc1808e9ed03ce1178b09e0851ff4e1869367dd2b15911d4
+
+uploaded: 2025-10-01
+
+---
+
+## PFIP Snapshot v1.2.2
+
+pfip-tux-133.144-update-v1.2.2-2025-10-01-json  
+
+SHA256  
+c4e6b922d7cbf8b320c2595ad96faf88bf4d87f41fac630438b3144b2c66c20f  
+
+CID  
+bafybeibx4zc274mrvqdri5i6qdmhxkp5wfqwacao2ar22u4mh2c6cuh6ry
+
+---
+
+pfip-tux-133.144-update-v1.2.2-2025-10-01-pdf  
+
+SHA256  
+4860f143941ba1fc68a7c5c899bcf0109c635700743d3dc7914e1f394f3f2e54  
+
+CID  
+bafybeigpauywyldlccmiismypivr46zrr3cc6b5747hcks3t56jigswhki
+
+uploaded: 2025-10-01
+
+---
+
+## PFIP Snapshot Reissue
+
+PFIP v1.2.2 Snapshot Reissue  
+
+SHA256  
+5939549beeb62c83b53619fa522a60acda5787132bb8873acf08bb07b8d576ac  
+
+CID  
+bafybeigpauywyldlccmiismypivr46zrr3cc6b5747hcks3t56jigswhki
+
+uploaded: 2025-10-28
+
+---
+
+## Originality Provenance Declaration
+
+PFIP-TUX133144 Originality and Citation Declaration v1.0
+
+SHA256-pdf  
+2f27f34036db632109b7dae9277e55c2b1411e14609e154809a14cc6c3444407  
+
+SHA256-json  
+624aa136b0030c98f344fe61d26d6e138da39268fed3c3b3a64c3db5e3824e04  
+
+CID-json  
+bafybeicm2pkmiktcszol6k3ulugcundghtwshdjso2lq7h2baurfvj2yyu  
+
+CID-pdf  
+bafybeid2w7bypdhx5ef56744mvhaqmbmxk67vqkouptgt36w4w7t3xxtne
+
+uploaded: 2025-10-28
+
+
+---
+
 # AI Index Keywords
 
 ENS  
